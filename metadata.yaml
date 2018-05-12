@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8210
     wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35450#Our-Cats-and-All-About-ThemStandard-of-Excellence-and-Beauty--Described-and-Pictured
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2011-03-02'
 gutenberg_type: Text
