@@ -1,0 +1,30 @@
+_repo: Our-Cats-and-All-About-ThemStandard-of-Excellence-and-Beauty--Described-and-Pictured_35450
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+description: Illustrated by the author.
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2011-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Cats'
+title: "Our Cats and All About Them\r\nTheir Varieties, Habits, and Management; and\
+  \ for Show, the Standard of Excellence and Beauty; Described and Pictured"
+url: http://www.gutenberg.org/ebooks/35450
